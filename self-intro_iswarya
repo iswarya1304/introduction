@@ -1,7 +1,10 @@
-My name is  iswarya, and I have 3 years of experience in Data Engineering.
-I have worked on end-to-end data engineering projects, Proficient in utilizing Azure Data,  Databricks (PySpark) and other Azure services to streamline data workflows
-My responsibilities include connecting to multiple data sources, extracting data, and cleaning it using Databricks and PySpark.
-Designed and developed scalable data pipelines using Azure Data Factory (ADF) to automate the ingestion of data from SQL
-Server,Oracle databases, and various APIs into Azure Data Lake Storage (ADLS). 
-I have strong expertise in Python, PySpark, SQL, Databricks, and Azure Data Factory.
-Currently i am working on Azure-based Technical Support and Maintenance Projects Description Collaborated with development and infrastructure teams to deploy updates and fixes to existing data pipelines.
+I am a Data Engineer with 3 years of experience in designing and maintaining robust pipelines with technologies like Databricks, 
+Azure Data Factory, ADLS Blob Storage, PySpark, SQL, and Python. I have implemented efficient data processing workflows in PySpark
+within Databricks, leveraging ADLS Blob Storage to handle large-scale data efficiently.
+In my previous roles I have been responsible for developing and implementing ETL/ELT pipelines using Azure Data Factory,
+Azure Databricks, Azure Functions to ingest and transform data from various sources like SQL server, cloud storage etc .
+I have also created optimized SQL queries for data extraction and transformation from ADLS blob storage ,ensuring high 
+performance for reporting and analytics .
+Throughout our projects we have followed Agile methodology where we have used JIRA as a tool to track and manage our projects.
+I have collaborated with cross functional teams to implement best practices for data storage and processing in ADLS Blob Storage,
+maintaining data quality, accuracy, and consistency across various layers in the architecture.
