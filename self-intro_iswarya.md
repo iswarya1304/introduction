@@ -1,7 +1,9 @@
-My name is Iswarya, and I am a Data Engineer with over 3 years of experience in building and maintaining scalable data solutions. I currently work at Centrepoint Soft Tech Pvt. Ltd., specializing in developing end-to-end data engineering pipelines.
+My name is Iswarya, and I have 3 years of experience in Azure data engineering. I currently work at Centrepoint Soft Tech Pvt. Ltd., where I specialize in developing end-to-end data engineering pipelines.
 
-I have expertise in Databricks, Azure Data Factory, ADLS Blob Storage, PySpark, SQL, and Python. My responsibilities include designing scalable pipelines for data ingestion, transformation, and loading, both in batch and real-time, and automating workflows in Azure Data Factory and Databricks.
+I have strong expertise in Python, PySpark, SQL, Azure Database, and Azure Data Factory. My primary responsibilities include designing and implementing data pipelines using Azure Data Factory to move data seamlessly across various locations and destinations.
 
-I am skilled in writing optimized SQL queries, developing reusable modules using PySpark and SQL, and scripting transformations in Python to improve efficiency. Additionally, I have experience working with Oracle SQL Server databases for complex data operations.
+I am skilled in writing code, performing validations, and creating reusable modules in PySpark and SQL. I also have significant experience with Oracle SQL Server databases, where I handle complex data operations.
 
-I have worked both as an individual contributor and in collaborative teams, using tools like Jira and GitHub for project and code management. With a focus on efficiency and scalability, I am committed to delivering high-quality data solutions.
+In addition to my technical skills, I have worked as both an individual contributor and part of collaborative teams. I am proficient in tools like Jira and GitHub for project and code management.
+
+These experiences and skills have equipped me to deliver scalable, high-quality, and efficient data solutions.
